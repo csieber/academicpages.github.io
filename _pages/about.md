@@ -36,3 +36,7 @@ Work experience
   * Chair of Communication Networks (LS3) @ University of Würzburg
   * Supervisors: Thomas Zinner, Tobias Hoßfeld, Phuoc Tran-Gia
   
+Publications
+======
+
+You can find my publications on my [Google Scholar Profile](https://scholar.google.de/citations?user=1iyEOfAAAAAJ&hl=en)
