@@ -39,4 +39,9 @@ Work experience
 Publications
 ======
 
-You can find my publications on my [Google Scholar Profile](https://scholar.google.de/citations?user=1iyEOfAAAAAJ&hl=en)
+You can find my publications on <u><a href="https://scholar.google.de/citations?user=1iyEOfAAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+
+Open Source
+======
+
+You can find my open source projects on <u><a href="https://github.com/csieber">my GitHub account</a>.</u>
