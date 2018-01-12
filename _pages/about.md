@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "C. Sieber, Researcher @ TUM"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
