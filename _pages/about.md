@@ -10,10 +10,10 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Computer Science**, Julius-Maximilians-Universität Würzburg, Germany
-* **Exchange Semester**, La Trobe University, Melbourne, Australia
-* **M.S. in Computer Science**, Julius-Maximilians-Universität Würzburg, Germany
-* **Ph.D in Engineering (expected 2018)**, Technical University of Munich 
+* *B.S. in Computer Science*, Julius-Maximilians-Universität Würzburg, Germany
+* *Exchange Semester*, La Trobe University, Melbourne, Australia
+* *M.S. in Computer Science*, Julius-Maximilians-Universität Würzburg, Germany
+* *Ph.D in Engineering (expected 2018)*, Technical University of Munich 
 
 Work experience
 ======
