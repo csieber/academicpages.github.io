@@ -11,31 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
+* B.S. in Computer Science, Julius-Maximilians-Universität Würzburg, Germany
+* Exchange Semester, La Trobe University, Melbourne, Australia
+* M.S. in Computer Science, Julius-Maximilians-Universität Würzburg, Germany
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2016: Research Associate Intern
+  * HPE Labs, Palo Alto, USA
+  * Labs: Networking, Mechanisms and Design
+  * Supervisors: Puneet Sharma, Bernado Huberman
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014 - present: Researcher
+  * Chair of Communication Networks (LKN) @ Technical University of Munich (TUM)
+  * Duties: Research, Teaching, Infrastructure
+  * Supervisor: Prof. Dr.-Ing. Wolfgang Kellerer
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Winter 2012: Short Term Scientific Mission (STSM)
+  * University of Klagenfurt, Austria
+  * Sponsorship of European Cooperation in Science and Technology (COST), QUALINET
+  * Supervisor: Christian Timmerer
+  
+* 2008 - 2013: Student Research Assistant
+  * Chair of Communication Networks (LS3) @ University of Würzburg
+  * Supervisors: Thomas Zinner, Tobias Hoßfeld, Phuoc Tran-Gia
+  
+* 2003 - 2005: Server Administrator, Game Master
+  * Tiscali Games Germany
+  * MMORPG BiosFear (Laghaim)
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +59,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
