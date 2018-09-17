@@ -21,7 +21,7 @@ Work experience
 * Summer 2016: **Research Associate Intern**
   * HPE Labs, Palo Alto, USA
   * Labs: Networking, Mechanisms and Design
-  * Supervisors: Puneet Sharma, Bernado Huberman
+  * Supervisors: Puneet Sharma, Bernardo Huberman
 
 * 2014 - present: **Researcher**
   * Chair of Communication Networks (LKN) @ Technical University of Munich (TUM)
